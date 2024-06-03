@@ -8,7 +8,7 @@ Hello World , This is my profile.
 
 - 🌱 I’m currently learning **Angular, React, Express.js,Node.js**
 
-- 💬 Ask me about **react,Express.js.**
+- 💬 Ask me about **react,js.**
 
 - 📫 How to reach me **bukkemurali850@gmail.com**
 
