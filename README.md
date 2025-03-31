@@ -6,9 +6,9 @@ Hello World , This is my profile.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murali9392&label=Profile%20views&color=0e75b6&style=flat" alt="murali9392" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **, React.js, Express.js,Node.js**
+- 🌱 I’m currently learning **, React.js, Angular.js, Node.js**
 
-- 💬 Ask me about **react,js.**
+- 💬 Ask me about **Angular.js.**
 
 - 📫 How to reach me **bukkemurali850@gmail.com**
 
